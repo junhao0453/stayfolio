@@ -58,3 +58,8 @@ a {
 .line-height-0-ch-only > * {
     line-height: normal;
 }
+
+.absolute-middle {
+    position: absolute;
+    transform: translateY(-50%);
+}
